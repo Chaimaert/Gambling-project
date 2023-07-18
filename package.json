@@ -1,0 +1,14 @@
+{
+  "name": "gambling-project",
+  "version": "1.0.0",
+  "description": "This is a gambling project made with JavaScript and NodeJs",
+  "main": "Project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaimae Rouita",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
